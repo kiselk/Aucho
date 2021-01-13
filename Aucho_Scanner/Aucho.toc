@@ -1,0 +1,11 @@
+## Interface: 40000
+## Title: Aucho
+## Version: 1.00
+## Notes: test
+## Author: test
+## Dependencies:
+## OptionalDeps:
+## DefaultState: enabled
+## SavedVariables: AuchoDB
+
+Aucho.lua
